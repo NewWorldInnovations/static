@@ -1,0 +1,2 @@
+# static
+realstate static files
